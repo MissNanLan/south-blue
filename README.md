@@ -4,5 +4,5 @@
 
 🥰 阅读打卡
 
-[https://github.com/MissNanLan/south-blue/discussions/1](https://github.com/MissNanLan/south-blue/discussions/1)
+[阅读打卡](https://github.com/MissNanLan/south-blue/discussions/1)
 
