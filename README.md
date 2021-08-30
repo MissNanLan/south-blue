@@ -17,7 +17,9 @@
 ## Montior
 
 1、[sentry 搭建错误监控系统(一)](<https://github.com/MissNanLan/south-blue/blob/main/Montior/sentry%E6%90%AD%E5%BB%BA%E9%94%99%E8%AF%AF%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F(%E4%B8%80).md>)
+
 2、[sentry 搭建错误监控系统(二)](<https://github.com/MissNanLan/south-blue/blob/main/Montior/sentry%E6%90%AD%E5%BB%BA%E9%94%99%E8%AF%AF%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F(%E4%BA%8C).md>)
+
 3、[sentry 搭建错误监控系统(三)](<https://github.com/MissNanLan/south-blue/blob/main/Montior/sentry%E6%90%AD%E5%BB%BA%E9%94%99%E8%AF%AF%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F(%E4%B8%89).md>)
 
 ## Other
@@ -32,19 +34,25 @@
 ## Typescript
 
 1、[TS 一些工具类型的使用及其实现](https://github.com/MissNanLan/south-blue/blob/main/Typescipt/TS%20%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%9E%E7%8E%B0.md)
+
 2、[type 与 interface 的区别](https://github.com/MissNanLan/south-blue/blob/main/Typescipt/type%20%E4%B8%8E%20interface%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 ## Vue
 
 1、[vue 的 defineProperty 和 Proxy 的区别](https://github.com/MissNanLan/south-blue/blob/main/Vue/vue%20%E7%9A%84defineProperty%20%E5%92%8CProxy%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 2、[vue-$nextTick 实现原理](https://github.com/MissNanLan/south-blue/blob/main/Vue/vue-%24nextTick%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+
 3、[Vue 的双向绑定和单向数据流](https://github.com/MissNanLan/south-blue/blob/main/Vue/Vue%E7%9A%84%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A%E5%92%8C%E5%8D%95%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81.md)
 
 ## JavaScript
 
 1、[0.1 + 0.2 ！== 0.3](https://github.com/MissNanLan/south-blue/blob/main/JavaScript/0.1%20%2B%200.2%20%EF%BC%81%3D%3D%200.3.md)
+
 2、[js 原型与继承](https://github.com/MissNanLan/south-blue/blob/main/JavaScript/js%E5%8E%9F%E5%9E%8B%E4%B8%8E%E7%BB%A7%E6%89%BF.md)
+
 3、[js 基本类型、显示转换，隐式转换](https://github.com/MissNanLan/south-blue/blob/main/JavaScript/js%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E3%80%81%E6%98%BE%E7%A4%BA%E8%BD%AC%E6%8D%A2%EF%BC%8C%E9%9A%90%E5%BC%8F%E8%BD%AC%E6%8D%A2.md)
+
 4、[深入了解 ES6 的 let 与 var、const 的区别](https://github.com/MissNanLan/south-blue/blob/main/JavaScript/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3ES6%E7%9A%84let%E4%B8%8Evar%E3%80%81const%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 ## Tool
