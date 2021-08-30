@@ -25,7 +25,8 @@
 ## Other
 
 1、[.eslintrc.js 与.eslintrc.yaml 等等文件的顺序](https://github.com/MissNanLan/south-blue/blob/main/Other/.eslintrc.js%20%E4%B8%8E.eslintrc.yaml%E7%AD%89%E7%AD%89%E6%96%87%E4%BB%B6%E7%9A%84%E9%A1%BA%E5%BA%8F.md)
-2、 [screenLog](https://github.com/MissNanLan/south-blue/blob/main/Other/screenLog.md)
+
+2、[screenLog](https://github.com/MissNanLan/south-blue/blob/main/Other/screenLog.md)
 
 ## React
 
