@@ -1,0 +1,30 @@
+{
+  "name": "south-blue",
+  "version": "1.0.0",
+  "description": "This repo records notes  on CSS, JS, React, Vue, H5, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissNanLan/south-blue.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "MissNanLan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissNanLan/south-blue/issues"
+  },
+  "homepage": "https://github.com/MissNanLan/south-blue#readme",
+  "devDependencies": {
+    "husky": "^7.0.0"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-angular": "^13.1.0"
+  }
+}
