@@ -8,7 +8,7 @@
 
 #### GitHub Extra Pins
 
-```
+``` js
 /api/pin?username=anuraghazra&repo=github-readme-stats
 ```
 
@@ -63,12 +63,12 @@
 
 ### 利用 vercel 自己部署
 
-1. 在[vercel](https://vercel.com/)用 github 登陆
-2. fork [github-readme-stats](https://github.com/MissNanLan/github-readme-stats)
-3. 点击`New Project`选择你仓库下的`github-readme-stats`
-4. 配置环境变量`PAT_1`,这一步很重要，在部署前先配置
-
-- 在 github ->settings->Developer settings>Personal access tokens->New personal access token
-- 最后点击`Generate Token`即可
-
-5. 点击查看 domain，可以自定义
+1、 在[vercel](https://vercel.com/)用 github 登陆
+2、 fork [github-readme-stats](https://github.com/MissNanLan/github-readme-stats)
+3、 点击`New Project`选择你仓库下的`github-readme-stats`
+4、 配置环境变量`PAT_1`,这一步很重要，在部署前先配置（我之前都是在构建前再去配置，导致没有生效，这里谁有解答可以告知）
+![image](https://github.com/MissNanLan/south-blue/blob/main/assets/variable.png)
+NAME 是PAT_1
+Value  是github的个人授权token
+5、创建Personal access token。 在 github ->settings->Developer settings>Personal access tokens->New personal access token，最后点击`Generate Token`即可
+6. 点击查看 domain，可以自定义
