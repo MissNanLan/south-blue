@@ -1,1 +1,12 @@
-1
+1、快速打开setting.json
+```
+command+p>setting.json
+```
+
+2、重启vscode
+```
+command+p>reload window
+
+```
+
+
